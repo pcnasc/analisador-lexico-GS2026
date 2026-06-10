@@ -130,8 +130,3 @@ A suite de testes valida automaticamente:
 | Robustez (sem UNKNOWN) | 1 |
 | **Total** | **49** |
 
----
-
-## 📜 Licença
-
-Projeto acadêmico — uso educacional.
