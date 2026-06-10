@@ -1,0 +1,15 @@
+# Compiled binaries
+analyzer
+*.o
+*.out
+*.exe
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
